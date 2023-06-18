@@ -44,4 +44,4 @@ function filterBooks(books) {
 var filteredList = filterBooks(books);
 
 // Print the filtered list of books
-console.log(filteredList);
+//console.log(filteredList);
